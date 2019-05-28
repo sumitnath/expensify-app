@@ -1,20 +1,20 @@
 const expenses = [{
 	id: '1',
-	description: 'Car',
+	description: 'Gum',
 	note: '',
 	amount: 195,
 	createdAt: 0
 }, {
 	id: '2',
-	description: 'Home',
+	description: 'Rent',
 	note: '',
-	amount: 1500,
+	amount: 109500,
 	createdAt: 1
 }, {
 	id: '3',
-	description: 'Phone',
+	description: 'Credit Card',
 	note: '',
-	amount: 2300,
+	amount: 4500,
 	createdAt: 2
 }];
 

@@ -6,7 +6,7 @@ exports[`should reneder ExpenseListItem 1`] = `
     to="/edit/1"
   >
     <h3>
-      Car
+      Gum
     </h3>
   </Link>
   <p>
