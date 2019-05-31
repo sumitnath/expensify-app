@@ -9,7 +9,6 @@ test('should render EditExpensePage', () => {
 	expect(wrapper).toMatchSnapshot();
 });
 
-
 test('should handle edit expense', () => {
 	const editExpense = jest.fn();
 	const history = { push: jest.fn() };
